@@ -1,0 +1,33 @@
+.sub{
+    display: inline;
+    background-color: tan;
+   outline-color: black;
+   outline: auto;
+}
+.sub2{
+ 
+        background-color: lightgrey;
+        width: 150px;
+        border: 10px none;
+        padding: 10px;
+        margin: 15px;
+        display: inline-block;
+      
+}
+.sub3{
+
+    background-color: lightgrey;
+        width: 150px;
+        border: 10px none;
+        padding: 10px;
+        margin: 15px;
+        display: inline-block;
+}
+.freezer1{
+    display: inline-block;
+    padding: 10px;
+}
+.pantry1{
+    display: inline-block;
+    padding: 10px;
+}
